@@ -2,6 +2,12 @@
 
 A guided Excel portfolio project using 1,200 fictional orders.
 
+## Dashboard preview
+
+![Retail sales dashboard showing overall totals and revenue by month, region and product](reports/dashboard_preview.png)
+
+[View dashboard PDF](reports/Retail_Dashboard_2025.pdf)
+
 ## Purpose
 
 Compare monthly, regional and product sales performance,
