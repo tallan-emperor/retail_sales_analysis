@@ -29,7 +29,7 @@ and present the results in an interactive dashboard.
 ## Files
 
 - [Source data](data/orders_synthetic_1200.csv)
-- [Excel workbook](workbook/Retail_Project.xlsx)
+- [Excel workbook](workbook/retail_project.xlsx)
 - [Dashboard PDF](reports/Retail_Dashboard_2025.pdf)
 
 ## Quality checks
